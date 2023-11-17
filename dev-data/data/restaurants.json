@@ -149,6 +149,7 @@
             "longitude": -123.154480867088
         },
         "transactions": [],
+        "price": "$$",
         "location": {
             "address1": "1403 Marine Dr",
             "address2": "",
@@ -281,6 +282,7 @@
             "longitude": -123.11858
         },
         "transactions": [],
+        "price": "$",
         "location": {
             "address1": "987 Mainland Street",
             "address2": null,
@@ -499,6 +501,7 @@
             "longitude": -123.0755801
         },
         "transactions": [],
+        "price": "$",
         "location": {
             "address1": "1370 East Georgia Street",
             "address2": "",
@@ -545,6 +548,7 @@
             "longitude": -123.1087722
         },
         "transactions": [],
+        "price": "$$",
         "location": {
             "address1": "191 West Broadway",
             "address2": null,
